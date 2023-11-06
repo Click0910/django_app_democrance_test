@@ -40,9 +40,13 @@ The project use de SQLite DB that comes by default with Django, However for prod
 **Caching**
 
 In a real project and in order to reduce the stress in the main DB, is important to implement a caching strategy for example using and implementing a Redis server.
-I wrote the next article in medium.com: “Integrating Redis with Backend in Minikube: A Step-by-Step Guide. Part 3” | by Nicolas Bernal | Oct, 2023 | Medium
+I wrote the next article in medium.com: 
+https://medium.com/@nicolas1009/integrating-redis-with-backend-in-minikube-a-step-by-step-guide-part-3-806f00851606 \
+
 The article is part of an article series that I’m writing about a search engine implementation. The article describe how to implement for development Purposes a Redis server and integrated with a backend (in the article is implemented using FastAPI but the principles are same)
-This is my medium profile: Nicolas Bernal – Medium
+This is my medium profile: 
+
+https://nicolas1009.medium.com/
 
 
 ----------------------------------
